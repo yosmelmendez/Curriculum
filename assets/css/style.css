@@ -274,3 +274,14 @@ p {
     border-radius: 4px;
   }
 }
+
+.img_portafolio {
+  width: 100%; /* Ancho completo del div */
+  height: 100%; /* Alto completo del div */
+  object-fit: cover; /* Ajusta la imagen cubriendo todo el div */
+}
+
+a {
+  color: rgb(6, 15, 114); /* Cambia el color a negro (o el color que prefieras) */
+  text-decoration: none; /* Elimina el subrayado */
+}
